@@ -1,0 +1,28 @@
+---
+title: "Oddities of a programmer"
+author: Sanjid Rahman
+date: 3rd August, 2023
+output:
+  revealjs::revealjs_presentation:
+    theme: sky
+    highlight: pygments
+    center: true
+---
+
+# Programmer vs other professions
+
+## Entrepreneur / chess player
+
+# Stackoverflow
+
+## The root
+
+![alt text](img/stackoverflow_intro.jpg "Title")
+
+## But how
+
+![alt text](img/stackoverflow_cause.jpg "Title")
+
+## ...because
+
+![alt text](img/atwood_tweet.png "Title")
