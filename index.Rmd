@@ -42,6 +42,16 @@ output:
 
 ![alt text](img/stackoverflow_cause.jpg "Title")
 
-## ...because
+## Oh that's how
+
+![alt text](img/stack_overflow_question.png "Title")
+
+# Programmer temperament
+
+## Rude Linus
+
+![alt text](img/rude_linus.jpg "Title")
+
+## Redemption
 
 ![alt text](img/atwood_tweet.png "Title")
