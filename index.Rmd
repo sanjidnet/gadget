@@ -1,57 +1,230 @@
 ---
-title: "Oddities of a programmer"
+title: "Health and Productivity"
 author: Sanjid Rahman
-date: 3rd August, 2023
+date: 2024-03-07
 output:
   revealjs::revealjs_presentation:
-    theme: sky
+    css: style.css
 ---
 
-# Programming vs other professions
+# Health: Wearables
 
-    highlight: pygments
-    center: true
+## Apple Watch
 
-## Entrepreneur / chess player
+::::: {style="display: flex;"}
+:::: {.column1}
 
-![alt text](img/programmer_antisocial.jpg "Title"){ width=50\% }
+- Activity Ring
+- Notification prioritization
 
-# Programmer Value: Sharing
+::::
 
-## Sharing ideas
+:::: {.column2}
 
-![alt text](img/idea_sharing.jpg "Title"){ width=50\% }
+![alt text](img/apple_watch.jpg "Title")
 
-# Programmer Value: Open source
+::::
+:::::
 
-## The altruism
+## Oura Ring
 
-![alt text](img/linus_on_programmers_altruism.jpg "Title")
+::::: {style="display: flex;"}
+:::: {.column1}
 
-## What can be achieved!
+- Sleep tracking
+- Blood oxygen level
 
-![alt text](img/linux_contributors.png "Title")
+::::
 
-# Programmer Paradise: Stackoverflow
+:::: {.column2}
 
-## The necessity
+![alt text](img/oura_ring.jpg "Title")
 
-![alt text](img/stackoverflow_intro.jpg "Title")
+::::
+:::::
 
-## But how
+# Health: App
 
-![alt text](img/stackoverflow_cause.jpg "Title")
+## Sleep Trackers
 
-## Oh that's how
+::::: {style="display: flex;"}
+:::: {.column1}
 
-![alt text](img/stack_overflow_question.png "Title")
+-   Health App
+-   Oura App
 
-# Programmer temperament
+![alt text](img/apple_health.jpg "Title")
 
-## Rude Linus
+::::
 
-![alt text](img/rude_linus.jpg "Title")
+:::: {.column2}
 
-## Redemption
+![alt text](img/oura_app.webp "Title")
 
-![alt text](img/atwood_tweet.png "Title")
+::::
+:::::
+
+## Activity
+
+::::: {style="display: flex;"}
+:::: {.column1}
+
+-   Strava
+-   All Trails
+
+::::
+
+:::: {.column2}
+
+![alt text](img/strava.png "Title")
+![alt text](img/all_trails.jpg "Title")
+
+
+::::
+:::::
+
+# Productivity: Compute
+
+## Mac Mini
+
+::::: {style="display: flex;"}
+:::: {.column1}
+
+-   Cheap for what it is
+
+::::
+
+:::: {.column2}
+
+![alt text](img/mac.webp "Title")
+
+::::
+:::::
+
+
+## Raspberry Pi
+
+
+::::: {style="display: flex;"}
+:::: {.column1}
+
+-   Terminal life
+
+::::
+
+:::: {.column2}
+
+![alt text](img/pi.webp "Title")
+
+::::
+:::::
+
+
+## Cantor Keyboard
+
+
+::::: {style="display: flex;"}
+:::: {.column1}
+
+-   Ergonomic
+-   Compact
+-   Fun
+-   36k forks and 16k stars on Github
+
+![alt text](img/qmk.png "Title")
+
+::::
+
+:::: {.column2}
+
+![alt text](img/cantor.jpg "Title")
+
+
+::::
+:::::
+
+## Supernote Nomad
+
+
+::::: {style="display: flex;"}
+:::: {.column1}
+
+-   Thoughts
+-   Meetings
+-   ebook reader
+-   Hiking
+
+::::
+
+:::: {.column2}
+
+![alt text](img/supernote.jpg "Title")
+
+
+::::
+:::::
+
+# Productivity: Apps
+
+
+
+## GitHub
+
+
+::::: {style="display: flex;"}
+:::: {.column1}
+
+-   Permanent Content
+-   Personal Website
+-   Keyboard Config
+-   Dotfiles
+-   Starred Repos
+
+::::
+
+:::: {.column2}
+
+![alt text](img/github.png "Title")
+
+
+::::
+:::::
+
+## Things3
+
+::::: {style="display: flex;"}
+:::: {.column1}
+
+-   Transient Content / Todo
+-   Transition from webapps
+-   ...to BearNotes
+-   ...to Notion
+-   ...to Obsidian
+
+::::
+
+:::: {.column2}
+
+![alt text](img/things3.jpg "Title")
+
+::::
+:::::
+
+## Bitwarden
+
+::::: {style="display: flex;"}
+:::: {.column1}
+
+-   Password Management
+-   Cross-platform
+-   Cloud-synced
+-   MFA-based
+
+::::
+
+:::: {.column2}
+
+![alt text](img/bitwarden.png "Title")
+
+::::
+:::::

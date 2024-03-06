@@ -1,0 +1,37 @@
+.column1, 
+.column2 {
+  width: 50%;
+}
+
+
+.section1 {
+  text-align: left;
+  color: blue;
+  margin: 10px 20px 0 0 !important;
+  font-size: 25px !important;
+}
+
+.section2 {
+  text-align: left;
+  color: red;
+  margin: 50px 20px 0 0 !important;
+  font-size: 25px !important;
+}
+
+
+.section3 {
+  margin: 10px 20px 0 0 !important;
+  background-color: dodgerblue;
+  font-size: 25px !important;
+}
+
+.section4 {
+  margin: 50px 20px 0 0 !important;
+  background-color: coral;
+  font-size: 25px !important;
+}
+
+.section3 pre,
+.section4 pre {
+  background-color: white;
+}
